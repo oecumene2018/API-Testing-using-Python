@@ -1,0 +1,6 @@
+requests==2.25.1
+jsonpath==0.82
+pytest==6.2.2
+openpyxl==3.0.7
+selenium==3.141.0
+mimesis==4.1.3
